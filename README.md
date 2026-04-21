@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-🔗 **Live Demo:** https://parinshira.github.io/My-portfolio/
+🔗 **Live Demo:** https://parinshira.github.io/My-Portfolio/
 
 ---
 
